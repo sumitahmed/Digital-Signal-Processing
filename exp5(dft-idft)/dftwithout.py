@@ -1,3 +1,4 @@
+#dft without library function
 import numpy as np
 
 # Input sequence and parameters

@@ -1,3 +1,4 @@
+#dft with library function
 import numpy as np
 from numpy.fft import fft
 import matplotlib.pyplot as plt

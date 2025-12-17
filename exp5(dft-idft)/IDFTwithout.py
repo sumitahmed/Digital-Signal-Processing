@@ -1,3 +1,4 @@
+#idft without library function
 import numpy as np
 
 # Example DFT coefficient sequence

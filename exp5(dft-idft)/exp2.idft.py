@@ -1,3 +1,4 @@
+#idft with library function
 import numpy as np
 import matplotlib.pyplot as plt
 
